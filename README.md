@@ -3,9 +3,12 @@ create Maximum Intensity Projection from nii
 
 
 #Usage : 
+```
 import gif_mip
 
 gif_mip.create_mipGIF_from_3D(img,nb_image=40,duration=0.1,is_mask=False,borne_max=None)
+
+```
 
 #Notes : 
  -image in nibabel format
