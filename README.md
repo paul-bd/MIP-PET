@@ -1,5 +1,5 @@
 # MIP-PET (maximum intensity projection for positon emission tomography)
-create Maximum Intensity Projection from nii
+create a rotating GIF of Maximum Intensity Projection from nii image in python. 
 
 
 #Usage : 
