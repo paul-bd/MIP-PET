@@ -2,7 +2,7 @@
 create a rotating GIF of Maximum Intensity Projection from nii image in python. 
 
 
-#Usage : 
+# Usage : 
 ```
 import gif_mip
 
@@ -10,7 +10,7 @@ gif_mip.create_mipGIF_from_3D(img,nb_image=40,duration=0.1,is_mask=False,borne_m
 
 ```
 
-#Notes : 
+# Notes : 
  - image in nibabel format
  - nb_image= the number of image ~angle of rotation (360/nb_image)
  - duration=0.1 
